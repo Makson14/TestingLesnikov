@@ -3,3 +3,4 @@ Console.WriteLine("Hello, World!");
 //coordinates
 //dlina
 //dlinacircle
+//ploshad
