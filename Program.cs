@@ -4,3 +4,5 @@ Console.WriteLine("Hello, World!");
 //dlina
 //dlinacircle
 //ploshad
+//perimetrkvadrata
+//plohadkvadrata
